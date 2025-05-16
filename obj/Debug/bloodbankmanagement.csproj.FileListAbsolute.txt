@@ -1,0 +1,14 @@
+C:\Users\INTEL SYSTEM\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\INTEL SYSTEM\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\INTEL SYSTEM\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\INTEL SYSTEM\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\XanderUI.dll
+C:\Users\INTEL SYSTEM\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\bloodbankmanagement.csproj.AssemblyReference.cache
+C:\Users\INTEL SYSTEM\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddNewUser.resources
+C:\Users\INTEL SYSTEM\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.userbutton.resources
+C:\Users\INTEL SYSTEM\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.dashboard.resources
+C:\Users\INTEL SYSTEM\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\INTEL SYSTEM\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\bloodbankmanagement.csproj.GenerateResource.cache
+C:\Users\INTEL SYSTEM\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\bloodbankmanagement.csproj.CoreCompileInputs.cache
+C:\Users\INTEL SYSTEM\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\bloodban.42F483F0.Up2Date
+C:\Users\INTEL SYSTEM\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\INTEL SYSTEM\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
